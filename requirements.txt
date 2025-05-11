@@ -1,1 +1,3 @@
-ollama n8n openai
+ollama
+n8n 
+openai
