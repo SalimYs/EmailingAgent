@@ -1,3 +1,2 @@
-ollama
 n8n 
 openai
