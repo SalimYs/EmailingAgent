@@ -1,2 +1,1 @@
-fastapi == 2.2.1
-numpy
+ollama n8n openai
